@@ -74,12 +74,11 @@ The **Hospital Management System** is a Java-based desktop application built to 
 ## 📸 Screenshots
 
 ### 🔑 Login Page  
-![Login Page](screenshots/login.png)
+![Login Page](screenshot 1.png)
 
 ### 📄 Patient Details Page  
-![Patient Details](screenshots/patient_details.png)
+![Patient Details](screenshot 2.png)
 
-> 📁 Ensure the `screenshots/` directory contains the image files named `login.png` and `patient_details.png`.
 
 ## 🚧 Future Enhancements
 - 🔐 Add secure user authentication and role-based access.
